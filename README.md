@@ -1,1 +1,0 @@
-# shefi-shop-bot
